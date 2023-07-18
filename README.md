@@ -1,6 +1,21 @@
 ### RISC V Simulator
 This is a project of CS204 (Computer Architecture) of RISC V Simulator.
 
+================================================
+# Functional Simulator for subset of RISCV Processor
+================================================
+
+This is the final project of CS204 - Computer Architecture Course. The project involves building a RISCV-32 Simulator. All the code is written in C++. 
+
+
+### Group Members
+
+1. Hardik Aggarwal
+2. Komalpreet Singh
+3. Ritesh Mohan Patil
+4. Edgar Aditya Thorpe
+
+
 The project is divided into three phases:
 
 ## Phase 1:
